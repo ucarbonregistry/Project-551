@@ -51,7 +51,7 @@ The CETP was designed to treat effluents from the bleaching and dyeing units lis
 treatment scheme included Pre-treatment (equalization and biological oxidation followed by
 clarification, quartz filtration, resin filtration and softening filtration) and the Reverse Osmosis System
 for water and brine recovery.
-
+___________
 S.No Name of Member Units Consent quantity (m3/Day)
 ___________
 1. GOKUL DYEING FACTORY 675
