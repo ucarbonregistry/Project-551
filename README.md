@@ -46,3 +46,37 @@ currently treated3
 scenario involved the discharge of untreated or partially treated wastewater, leading to groundwater depletion and environmental pollution. However, through the advanced treatment processes implemented—including Effluent Treatment Plants (ETPs), ultrafiltration (UF), and reverse osmosis (RO)
 systems, the project now ensures the recycling and reuse of water, reducing the dependency on
 groundwater and promoting a sustainable water management approach. 
+
+The CETP was designed to treat effluents from the bleaching and dyeing units listed in Table 1. The
+treatment scheme included Pre-treatment (equalization and biological oxidation followed by
+clarification, quartz filtration, resin filtration and softening filtration) and the Reverse Osmosis System
+for water and brine recovery.
+
+S.No Name of Member Units Consent quantity (m3/Day)
+___________
+1. GOKUL DYEING FACTORY 675
+___________
+2. SKYLINE COLOURS 400
+___________
+3. BAGYALAKSHMI PROCESS 450
+___________
+4. THIRUMALAI TEXTILE PROCESSOR 450
+___________
+5. SRI SAKTHI BLEACHING WORKS 115
+___________
+6. MRS DYEING 270
+___________
+7. AMBAL COLOURS 280
+___________
+8. KUMAR COLOURS 200
+___________
+9. VELMURUGAN DYEINGS 350
+___________
+10. KMS TEXTILE PROCESSING MILL 230
+___________
+11. SHRI SAKTHI MILLS 100
+___________
+12. DHANIGAI PROCESS 100
+___________
+13. DEEPTHY FENISHERS 250
+___________
